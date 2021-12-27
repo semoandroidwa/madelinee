@@ -1,6 +1,5 @@
 const Asena = require('../events');
 const Config = require('../config');
-const image = require('../buffer');
 const fs = require("fs")
 const image = require('../raganork');
 const {MessageType} = require('@adiwajshing/baileys');
