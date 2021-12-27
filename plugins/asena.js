@@ -4,6 +4,13 @@ const image = require('../buffer');
 const {MessageType} = require('@adiwajshing/baileys');
 const Language = require('../language');
 const Lang = Language.getString('asena');
+var skcmd,sk1,sk2,sk3,sk4
+var split = Config.ALLEMOJI.split('/');
+         sk4 = split[4];
+         sk3 = split[3];
+         sk2 = split[2];
+         sk1 = split[1];
+         skcmd = split[0];
 let sourav = Config.WORKTYPE == 'public' ? false : true
 
 Asena.addCommand({pattern: 'list ?(.*)', fromMe: sourav, dontAddCommandList: true}, (async (message, match) => {
