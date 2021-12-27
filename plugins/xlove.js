@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *Yt_PASSWORD: _________(password on this video watch it full)*
 
- *githublink : https://github.com/Amal-ser/Amalser*
+ *githublink : https://github.com/Amal-ser/Amal_ser*
 
  *Amalser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
 `}) 
