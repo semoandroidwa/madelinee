@@ -118,7 +118,7 @@ Asena.addCommand({pattern: 'list ?(.*)', fromMe: sourav, dontAddCommandList: tru
         }
     }));
 
-    Asena.addCommand({pattern: 'mk ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'menu ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
         var img = image.skbuffer(Config.LOGOSK)
         var CMD_HELP = '';
         if (match[1] === '') {
