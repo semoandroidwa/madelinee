@@ -10,14 +10,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const fs = require("fs")
 const image = require('../buffer');
 const Language = require('../language');
-const Lang = Language.getString('_asena');
-var skcmd, sk1,sk2,sk3,sk4
-var split = Config.ALLEMOJI.split('/');
-         sk4 = split[4];
-         sk3 = split[3];
-         sk2 = split[2];
-         sk1 = split[1];
-         skcmd = split[0];        
+const Lang = Language.getString('_asena');        
 
 if (Config.WORKTYPE == 'private') {
 
