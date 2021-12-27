@@ -1,4 +1,4 @@
-const New = require('../events');
+const Asena = require('../events');
 const Config = require('../config');
 const image = require('../buffer');
 const {MessageType} = require('@adiwajshing/baileys');
@@ -6,11 +6,11 @@ const Language = require('../language');
 const Lang = Language.getString('asena');
 let sourav = Config.WORKTYPE == 'public' ? false : true
 
-New.addCommand({pattern: 'list ?(.*)', fromMe: sourav, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'list ?(.*)', fromMe: sourav, dontAddCommandList: true}, (async (message, match) => {
         var img = await image.skbuffer(Config.LOGOSK)
         var CMD_HELP = '';
         if (match[1] === '') {
-            New.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
@@ -58,7 +58,7 @@ New.addCommand({pattern: 'list ?(.*)', fromMe: sourav, dontAddCommandList: true}
         } 
         else {
             var CMD_HELP = '';
-            New.commands.map(
+            Asena.commands.map(
                 async (command) =>  {
                     if (command.dontAddCommandList || command.pattern === undefined) return;
                     try {
