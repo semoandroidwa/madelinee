@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂  𝐙𝐈𝐌-𝐓𝐄𝐂𝐇𝐒*
 
- *𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 : https://github.com/zim-bot*
+ *𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 : bot script coming soon after 250sub*
 
  *𝐙𝐈𝐌-𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘  𝐃𝐑𝐈𝐏𝐒 𝐌𝐄𝐌𝐄𝐒 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐓𝐎 𝐌𝐘 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂 𝐅𝐎𝐑 𝐔𝐏𝐃𝐀𝐓𝐄𝐒*
 
