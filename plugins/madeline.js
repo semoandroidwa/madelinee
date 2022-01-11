@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
      
  *Instagram id: https://www.instagram.com/zim_hot_chicks_official?utm_medium=copy_link*
 
- *𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂  𝐙𝐈𝐌-𝐓𝐄𝐂𝐇𝐒*
+ *𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂  𝐙𝐈𝐌-𝐓𝐄𝐂𝐇𝐒 : website coming soon*
 
  *𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 : bot script coming soon after 250sub*
 
