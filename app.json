@@ -1,7 +1,7 @@
 {
     "name": "Madeline ",
     "description": "Madeline is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
-    "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
+    "logo": "https://i.imgur.com/EyKEtLQ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/zim-bot/amalser",
     "website":   "https://github.com/zim-bot/amalser",
@@ -43,7 +43,7 @@
         "ALL_IMG": {
             "description": "Set the logo",
             "required": true,
-            "value": "https://telegra.ph/file/10b9d1ce0b50ae38fc6df.jpg"
+            "value": "https://i.imgur.com/EyKEtLQ.jpeg"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
@@ -58,7 +58,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://telegra.ph/file/1986d89402b68b4f4aeca.jpg"
+            "value": "https://i.imgur.com/EyKEtLQ.jpeg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
@@ -215,7 +215,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "Amalser"
+            "value": "DripsMemes"
         },
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 263 for indian ) Also don't enter space & + on the number ( example : 27634090203 for zim ). ( This number will be shown on some commands )",
@@ -238,7 +238,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands  {pp}```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.me* ```for commands  {pp}```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
