@@ -1,5 +1,5 @@
-/* codded by raashii
-reedited by BASIL SIR
+/* codded by DripsMemes
+reedited by Blessed Tuna
 use this git under copyright
 dont change credit
 */
@@ -8,7 +8,7 @@ const Badboy= require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
+const hrs = new Date().getHours({ timeZone: 'Africa/Harare' })
 
 Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
@@ -101,7 +101,7 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
+    var time = new Date().toLocaleString('HI', { timeZone: 'Africa/Harare' }).split(' ')[1]
 
     var wish = ''
      
