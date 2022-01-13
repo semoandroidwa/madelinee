@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/amalser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/madelinee)
 
 
 
@@ -44,8 +44,8 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/zim-bot/madeline
-$ cd madeline
+$ git clone https://github.com/zim-bot/madelinee
+$ cd madelinee
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node Amalser.js
@@ -53,8 +53,8 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/zim-bot/madeline
-$ cd madeline
+$ git clone https://github.com/zim-bot/madelinee
+$ cd madelinee
 $ npm i
 $ node Amal_ser.js
 ```
@@ -62,7 +62,7 @@ $ node Amal_ser.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/zim-bot/madeline">
+  <a href="https://github.com/zim-bot/madelinee">
     
 <a href="https://github.com/Amal-ser/followers">
 <img src="https://img.shields.io/github/repo-size/zim-bot/madeline?color=green&label=Repo%20total%20size&style=plastic">
