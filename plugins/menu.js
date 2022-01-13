@@ -17,13 +17,13 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     
     r_text[0] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[1] = "https://i.ibb.co/GH2tWJ4/images-1.jpg";
-    r_text[2] = "https://i.ibb.co/Mf79pVH/download.jpg";
+    r_text[2] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[3] = "https://i.ibb.co/b11BDWH/images-2.jpg";
     r_text[4] = "https://i.ibb.co/7v1m94x/images-3.jpg";
     r_text[5] = "https://i.ibb.co/vdKJxNX/images-4.jpg";
     r_text[6] = "https://i.ibb.co/cvKvyzR/images-5.jpg";
     r_text[7] = "https://i.ibb.co/WWRt8vZ/images-6.jpg";
-    r_text[8] = "https://i.ibb.co/m8Xg7Gj/images-7.jpg";
+    r_text[8] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[9] = "https://i.ibb.co/FDYQHzB/images-8.jpg";
     r_text[10] = "https://i.ibb.co/fFTNXcy/images-9.jpg";
     r_text[11] = "https://i.ibb.co/rygwb0Q/images-10.jpg";
@@ -33,7 +33,7 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     r_text[15] = "https://i.ibb.co/qWnhqVf/images-14.jpg";
     r_text[16] = "https://i.ibb.co/J7tr09N/images-15.jpg";
     r_text[17] = "https://i.ibb.co/NVhyQ1V/images-16.jpg";
-    r_text[18] = "https://i.ibb.co/PcV78Mv/images-17.jpg";
+    r_text[18] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[19] = "https://i.ibb.co/hYFY5PZ/images-18.jpg";
     r_text[20] = "https://i.ibb.co/n0vd5yR/images-19.jpg";
     r_text[21] = "https://i.ibb.co/hybc9KX/images-20.jpg";
@@ -49,7 +49,7 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     r_text[31] = "https://i.ibb.co/hsb9c1N/images-30.jpg";
     r_text[32] = "https://i.ibb.co/tQ2r1d1/images-31.jpg";
     r_text[33] = "https://i.ibb.co/5Mr70MY/images-32.jpg";
-    r_text[34] = "https://i.ibb.co/340nk6r/images-33.jpg";
+    r_text[34] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[35] = "https://i.ibb.co/3yWYZ9X/images-34.jpg";
     r_text[36] = "https://i.ibb.co/59G5Gpc/images-35.jpg";
     r_text[37] = "https://i.ibb.co/j48QYXt/images-36.jpg";
@@ -67,7 +67,7 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     r_text[49] = "https://i.ibb.co/pjcFyzr/images-6.jpg";
     r_text[50] = "https://i.ibb.co/XFSmcfj/images-9.jpg";
     r_text[51] = "https://i.ibb.co/TM8Qxt9/images-8.jpg";
-    r_text[52] = "https://i.ibb.co/f9RQ30f/images-10.jpg";
+    r_text[52] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[53] = "https://i.ibb.co/9ZRBQHP/images-11.jpg";
     r_text[54] = "https://i.ibb.co/Sm9PmLT/images-12.jpg";
     r_text[55] = "https://i.ibb.co/B2BzjdR/images-13.jpg";
@@ -85,7 +85,7 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     r_text[67] = "https://i.ibb.co/0y2vDZ8/images-25.jpg";
     r_text[68] = "https://i.ibb.co/0Gzdx1d/images-26.jpg";
     r_text[69] = "https://i.ibb.co/54wVtm8/images-27.jpg";
-    r_text[70] = "https://i.ibb.co/bQkJTZm/images-28.jpg";
+    r_text[70] = "https://i.imgur.com/EyKEtLQ.jpeg";
     r_text[71] = "https://i.ibb.co/hCNMWqG/images-29.jpg";
     r_text[72] = "https://i.ibb.co/qDphPx9/images-30.jpg";
     r_text[73] = "https://i.ibb.co/M8jRW8N/IMG-20210410-WA0308.png";
@@ -95,7 +95,7 @@ Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (a
     r_text[77] = "https://i.ibb.co/T0KbLFN/IMG-20210410-WA0318.jpg";
     r_text[78] = "https://i.ibb.co/wgQWTKy/IMG-20210410-WA0319.jpg";
     r_text[79] = "https://i.ibb.co/DbMk8nL/957395cbf134.jpg";
-    r_text[80] = "https://i.ibb.co/LQ4WJMR/f13a01cc7301.jpg";
+    r_text[80] = "https://i.imgur.com/EyKEtLQ.jpeg";
 
     var i = Math.floor(80*Math.random())
 
