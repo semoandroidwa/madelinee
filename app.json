@@ -1,11 +1,11 @@
 {
     "name": "Madeline ",
-    "description": "Madeline is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
+    "description": "Madeline is the Modified Version of WhatsAsena, Made By @DripsMemes with Baileys.",
     "logo": "https://i.imgur.com/EyKEtLQ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/zim-bot/amalser",
-    "website":   "https://github.com/zim-bot/amalser",
-    "success_url": "hthttps://github.com/zim-bot/amalser",
+    "repository": "https://github.com/zim-bot/madelinee",
+    "website":   "https://github.com/zim-bot/madelinee",
+    "success_url": "hthttps://github.com/zim-bot/madelinee",
     "stack": "container",
     "env": {
         "ZIM_CODE": {
