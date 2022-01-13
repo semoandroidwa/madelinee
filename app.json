@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "enter the password, to get password watch  .",
+            "description": "enter the password, to get password watch https://youtu.be/04acphCHmmA .",
             "required": true
         },
         "LANGUAGE": {
@@ -130,7 +130,7 @@
             "value": "^[.!;]"
         },
         "CHAT_BOT": {
-            "description": "Turn your account into a chatbot! .amalser on/off",
+            "description": "Turn your account into a chatbot! .dripsmemes on/off",
             "required": true,
             "value": "false"
         },
@@ -281,7 +281,7 @@
             "value": "default"
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
+            "description": "Type true if you don't want to appear online.",
             "required": false,
             "value": "true"
         }
